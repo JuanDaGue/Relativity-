@@ -1,2 +1,2 @@
-# Rlativity-
+# Relativity-
 Códigos de relatividad general 
